@@ -10,7 +10,7 @@ wordsFile = 'palavra2Anotado.txt'
 ambiguityFile = 'palavra2Ambiguidade.txt'
 lineBeginning = '<s>'
 
-regexp = re.compile('([a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔ]+)(-[a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔ]+)?/(.+)')
+regexp = re.compile('([a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔ]+)(-[a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔ]+)*/(.+)')
 
 ambiguities = [line.strip() for line in open(ambiguityFile)]
 lines = [line.strip() for line in open(wordsFile)]
@@ -33,7 +33,7 @@ for line in lines:
     for word in words:
         word = word.lower()
         match = regexp.match(word)
-        if match and (match.group(1) in verbalForms) and (match.group(3) in tags):
+        if match and ((match.group(1) in verbalForms) or (match.group(1) == verb)) and (match.group(3) in tags):
             word = verb + '/' + match.group(3)
             unigrams[word] += 1
         else:
@@ -65,4 +65,4 @@ for bigram, count in bigrams.iteritems():
     probs[bigram] = (float(count) + 1) / (unigrams[bigram[0]] + len(unigrams.keys()))
 
 for bigram, prob in probs.iteritems():
-    print bigram[0], bigram[1], '\t', prob
+    print bigram[0], bigram[1] + '\t', prob
