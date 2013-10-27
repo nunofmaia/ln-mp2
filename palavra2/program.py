@@ -25,6 +25,8 @@ verbs = []
 tags = ambiguities[1].split(' ')
 verbalForms = ambiguities[2].split(' ')
 
+lowestProb = min(bigrams.values())
+
 
 for line in lines:
     print '\n' + line
@@ -36,32 +38,54 @@ for line in lines:
     
     words = line.split(' ')
     lastWord = lineBeginning
+    otherWord = lineBeginning
     probsPerTag = {}
     originalForm = ''
 
     for word in words:
         lower = word.lower()
+        lastLower = lastWord.lower()
+        otherLower = otherWord.lower()
         match = regexp.match(lower)
-        if (lastWord in verbalForms) or (lastWord == verb):
+        if (lastLower in verbalForms) or (lastLower == verb):
+            originalForm = lastWord
             if match and ((match.group(1) in verbalForms) or (match.group(1) == verb)):
-                originalForm = word
                 temp = {}
                 for bigram, prob in probsPerTag.iteritems():
-                    tag = bigram[1].split('/')[1]
+                    tagin = bigram[1].split('/')[1]
                     for tag in tags:
-                        newBigram = (bigram[1], verb + '/' + tag)
-                        temp[newBigram] = float(bigrams[newBigram])
+                        tagged = verb + '/' + tag
+                        newBigram = (bigram[1], tagged)
+                        temp[newBigram] = 1.0
+                        newProb = bigrams.get(newBigram)
+                        if newProb:
+                            temp[newBigram] *= float(bigrams[newBigram])
+                        else:
+                            temp[newBigram] *= float(lowestProb)
+
                         totalProb = temp[newBigram] * prob
-                        print '\t' + originalForm, tag, totalProb
+                        if (otherLower in verbalForms) or (otherLower == verb):
+                            otherTag = bigram[0].split('/')[1]
+                            print '\t' + otherWord+'/'+otherTag, originalForm+'/'+tagin, word+'/'+tag, '\t'+str(totalProb)
+                        else:
+                            print '\t' + otherWord, originalForm+'/'+tagin, word+'/'+tag, '\t'+str(totalProb)
 
                 probsPerTag = temp
 
             else:
                 for bigram, prob in probsPerTag.iteritems():
                     tag = bigram[1].split('/')[1]
-                    newBigram = (bigram[1], lower)
-                    totalProb = float(bigrams[newBigram]) * prob
-                    print '\t' + originalForm, tag, totalProb
+                    newBigram = (bigram, lower)
+                    newProb = bigrams.get(newBigram)
+                    if newProb:
+                        totalProb = float(bigrams[newBigram]) * prob
+                    else:
+                        totalProb = float(lowestProb) * prob
+                    if (otherLower in verbalForms) or (otherLower == verb):
+                        otherTag = bigram[0].split('/')[1]
+                        print '\t' + otherWord+'/'+otherTag, originalForm+'/'+tag, word, '\t'+str(totalProb)
+                    else:
+                        print '\t' + otherWord, originalForm+'/'+tag, word, '\t'+str(totalProb)
                     probsPerTag = {}
 
                     
@@ -69,8 +93,14 @@ for line in lines:
             if match and ((match.group(1) in verbalForms) or (match.group(1) == verb)):
                 originalForm = word
                 for tag in tags:
-                    bigram = (lastWord, verb + '/' + tag)
-                    probsPerTag[bigram] = float(bigrams[bigram])
+                    tagged = verb + '/' + tag
+                    bigram = (lastLower, tagged)
+                    prob = bigrams.get(bigram)
+                    if prob:
+                        probsPerTag[bigram] = float(bigrams[bigram])
+                    else:
+                        probsPerTag[bigram] = float(lowestProb)
 
-        lastWord = lower
+        otherWord = lastWord
+        lastWord = word
 
