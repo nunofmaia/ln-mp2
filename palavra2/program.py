@@ -3,6 +3,7 @@
 import sys
 import re
 
+
 bigramsFile = sys.argv[1]
 ambiguityFile = sys.argv[2]
 corpus = sys.argv[3]
@@ -41,6 +42,26 @@ for line in lines:
     lastWord = lineBeginning
     findings = []
     probs = {}
+    
+    def rec(d, l):
+        if len(d) == 0:
+            c = sorted(l, key=lambda tup: tup[0])
+            s = ''
+            p = 1.0
+            for v in c:
+                s += v[1] + ' '
+                p *= probs[v]
+            print s, p
+        
+        else:
+            el = d.keys()[0]
+            n = dict((key,value) for key, value in d.iteritems() if key[0] != el[0])
+            m = dict((key,value) for key, value in d.iteritems() if key[0] == el[0])
+            for key, val in m.iteritems():
+                t = l
+                t.append(key)
+                rec(n, t)
+                t.pop()
 
     for index, word in enumerate(words):
         lower = word.lower()
@@ -55,6 +76,7 @@ for line in lines:
             p2 = lowestProb if not bigrams.get((tagged, result[2])) else bigrams.get((tagged, result[2]))
             prob = p1 * p2
             probs[(index, result[1] + '/' + tag)] = prob
+
         
     #for choice, prob in probs.iteritems():
     #    other = dict((key,value) for key, value in probs.iteritems() if key[0] != choice[0])
@@ -68,5 +90,5 @@ for line in lines:
     #            print sameChoice[1], sameProb
 
     #    #print choice[0], other
-
-
+    
+    rec(probs, [])
