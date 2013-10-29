@@ -1,0 +1,62 @@
+
+Destruir a floresta amazónica pode comprometer o sucesso de barragens para a produção eléctrica na região .
+ comprometer/32C 2.46339028577e-05
+ comprometer/35R 3.71904849782e-08
+ comprometer/07 3.67186496262e-08
+
+" Concordei em assumir o papel de líder desta coligação e comprometo-me com o sucesso desta operação " , acrescentou .
+ comprometo-me/35R 3.65116207713e-06
+ comprometo-me/32C 7.45757655881e-07
+ comprometo-me/07 3.46619213109e-08
+
+Questionado sobre as informações prestadas por Paulo Portas , Passos Coelho não se quis comprometer com valores e afirmou que " nenhuma decisão foi tomada sobre esta matéria " .
+ comprometer/35R 3.88211335682e-06
+ comprometer/32C 2.16253622248e-07
+ comprometer/07 3.68544328769e-08
+
+O BCE e o FMI exigirem que Atenas se comprometa com novas medidas no quadro de um terceiro memorando .
+ comprometa/35R 6.63524989266e-05
+ comprometa/07 4.0944178352e-06
+ comprometa/32C 2.05343025524e-07
+
+Os dois candidatos socialistas também " reafirmam da importância da assembleia municipal " aprovar os documentos propostos pela Câmara e reconhecem a sua legitimidade para sobre eles exercer uma visão crítica , comprometendo-se a aproximar aquele órgão autárquico dos cidadãos .
+ comprometendo-se/32C 2.94586539127e-05
+ comprometendo-se/07 3.33709647563e-06
+ comprometendo-se/35R 2.99113117642e-07
+
+André Villas-Boas , eleito o melhor treinador do campeonato inglês no mês de dezembro , já não perde há seis jornadas , mas o empate frente à equipa de José Bosingwa compromete o terceiro lugar dos spurs .
+ compromete/32C 1.41517062914e-06
+ compromete/35R 2.99113117641e-08
+ compromete/07 2.9531827218e-08
+
+O clube tem uma visão clara do sucesso dentro e fora de campo . Comprometo-me a dar uma contribuição significativa " , afirmou o novo treinador do Manchester City .
+ Comprometo-me/07 3.80061502696e-06
+ Comprometo-me/32C 1.97355437142e-06
+ Comprometo-me/35R 6.81319115566e-08
+
+Envolvo-me muito , às vezes demasiado , para conseguir esses objetivos com que me comprometi .
+ comprometi/35R 1.343285587e-06
+ comprometi/32C 6.48508430609e-07
+ comprometi/07 1.47360370523e-07
+
+O Chipre comprometeu-se a criar uma taxa excecional sobre os depósitos bancários e a restruturar o seu setor bancário . Deverá também comprometer-se a lutar mais eficazmente contra a lavagem de dinheiro .
+ comprometeu-se/07 comprometer-se/07 1.38409375918e-11
+ comprometeu-se/07 comprometer-se/32C 7.18721646236e-12
+ comprometeu-se/32C comprometer-se/07 7.18721646236e-12
+ comprometeu-se/32C comprometer-se/32C 3.73212292405e-12
+ comprometeu-se/07 comprometer-se/35R 2.48120246112e-13
+ comprometeu-se/35R comprometer-se/07 2.48120246112e-13
+ comprometeu-se/32C comprometer-se/35R 1.28841988172e-13
+ comprometeu-se/35R comprometer-se/32C 1.28841988172e-13
+ comprometeu-se/35R comprometer-se/35R 4.4479397528e-15
+
+Segundo a instituição , estes casos " continuam a comprometer o rigor e a transparência das contas públicas " . Estes casos , segundo o TdC , " ilustram insuficiências na aplicação das normas vigentes que continuam a comprometer a fiabilidade dos dados relativos à execução orçamental e a eficácia da respectiva gestão e controlo " .
+ comprometer/32C comprometer/32C 1.0023254508e-09
+ comprometer/32C comprometer/07 2.03184202248e-10
+ comprometer/07 comprometer/32C 2.20174320659e-12
+ comprometer/32C comprometer/35R 1.82119578004e-12
+ comprometer/35R comprometer/32C 1.11501782451e-12
+ comprometer/07 comprometer/07 4.46321538206e-13
+ comprometer/35R comprometer/07 2.26028389266e-13
+ comprometer/07 comprometer/35R 4.00050246489e-15
+ comprometer/35R comprometer/35R 2.02595449914e-15
