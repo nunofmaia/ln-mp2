@@ -1,0 +1,9 @@
+Optámos por desenvolver os progamas em python, pois julgámos que esta seria uma boa opção para a manipulação dos ficheiros e das estruturas necessárias.
+
+Para o corpus de aprendizagem, decidimos juntar os dois ficheiros fornecidos num só. Em relação à anotação, realçamos que, para o verbo correr, tal como indicado pelo professor, algumas expressões foram anotadas com /? (correr perigo, correr o risco, correr muita tinta). Para a normalização do mesmo utilizámos os comandos sed descritos no ficheiro run.sh.
+
+O algoritmo de alisamento utilizado foi o Add-1. O formato escolhido para representar as probablidades dos bigramas foi o do ficheiro bigramasDEMO.txt. Tal como sugerido pelo professor, os verbos para os bigramas ficaram no infinitivo. Como o corpus não era muito grande estar ainda a detalhar os verbos pelas formas verbais implicaria ainda menos resultados.
+
+Para o ficheiro das ambiguidades, as formas verbais não tiveram em conta os pronomes reflexivos. Sempre que pretendemos detectar um dos nossos verbos, executamos uma expressão regular que simplesmente confere se a palavra antes do primeiro hífen está contida na lista de ambiguidades ou se é o próprio verbo. Deste modo, aceitamos erradamente verbos com os pronomes errados (ex.: comprometo-mar). O mais correcto seria a lista de ambiguidades conter também os verbos conjugados reflexivamente, mas dvido à extensão de combinações optámos por não o fazer.
+
+Uma das preocupações que tivemos em conta foi a possibilidade de aparecer o verbo que pretendemos anotar mais do que uma vez na mesma frase. Sempre que isto acontece são feitas todas as combinações de anotações para os dois verbos.
