@@ -43,15 +43,15 @@ for line in lines:
     findings = []
     probs = {}
     
-    def rec(d, l):
+    def rec(d, l, r):
         if len(d) == 0:
             c = sorted(l, key=lambda tup: tup[0])
             s = ''
             p = 1.0
             for v in c:
-                s += v[1] + ' '
+                s += ' ' + v[1]
                 p *= probs[v]
-            print s, p
+            r[s] = p
         
         else:
             el = d.keys()[0]
@@ -60,14 +60,17 @@ for line in lines:
             for key, val in m.iteritems():
                 t = l
                 t.append(key)
-                rec(n, t)
+                rec(n, t, r)
                 t.pop()
 
     for index, word in enumerate(words):
         lower = word.lower()
-        if (lower in verbalForms) or (lower == verb):
-            b = [words[index - 1], word, words[index + 1]]
-            findings.append(b)
+        match = regexp.match(lower)
+        if match:
+            w = match.group(1)
+            if (w in verbalForms) or (w == verb):
+                b = [words[index - 1], word, words[index + 1]]
+                findings.append(b)
 
     for index, result in enumerate(findings):
         for tag in tags:
@@ -78,17 +81,10 @@ for line in lines:
             probs[(index, result[1] + '/' + tag)] = prob
 
         
-    #for choice, prob in probs.iteritems():
-    #    other = dict((key,value) for key, value in probs.iteritems() if key[0] != choice[0])
-    #    if len(other) > 0:
-    #        for otherChoice, otherProb in other.iteritems():
-    #            if choice[0] < otherChoice[0]:
-    #                print choice[1], otherChoice[1], prob * otherProb
-    #    else:
-    #        same = dict((key,value) for key, value in probs.iteritems() if key[0] == choice[0])
-    #        for sameChoice, sameProb in same.iteritems():
-    #            print sameChoice[1], sameProb
+    results = {}
+    rec(probs, [], results)
+    e = sorted(results.items(), key=lambda x: x[1])
+    e.reverse()
+    for v in e:
+        print v[0], v[1]
 
-    #    #print choice[0], other
-    
-    rec(probs, [])
