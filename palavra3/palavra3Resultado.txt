@@ -19,10 +19,10 @@ O BCE e o FMI exigirem que Atenas se comprometa com novas medidas no quadro de u
  comprometa/07 4.0944178352e-06
  comprometa/32C 2.05343025524e-07
 
-Os dois candidatos socialistas também " " " reafirmam da importância da assembleia municipal " " " aprovar os documentos propostos pela Câmara e reconhecem a sua legitimidade para sobre eles exercer uma visão crítica , comprometendo-se a aproximar aquele órgão autárquico dos cidadãos .
- comprometendo-se/32C 2.94586539127e-05
- comprometendo-se/07 3.33709647563e-06
- comprometendo-se/35R 2.99113117642e-07
+Os dois candidatos socialistas também " " " reafirmam da importância da assembleia municipal " " " aprovar os documentos propostos pela Câmara e reconhecem a sua legitimidade para sobre eles exercer uma visão crítica e comprometendo-se a aproximar aquele órgão autárquico dos cidadãos .
+ comprometendo-se/32C 2.23727296764e-05
+ comprometendo-se/07 3.91679710814e-06
+ comprometendo-se/35R 1.40429310659e-07
 
 André Villas-Boas , eleito o melhor treinador do campeonato inglês no mês de dezembro , já não perde há seis jornadas , mas o empate frente à equipa de José Bosingwa compromete o terceiro lugar dos spurs .
  compromete/32C 1.41517062914e-06
