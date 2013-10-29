@@ -1,13 +1,14 @@
 # -*- coding: utf-8 -*- 
 
+import sys
 import re
 
 unigrams = {}
 bigrams = {}
 probs = {}
 
-wordsFile = 'palavra2Anotado.txt'
-ambiguityFile = 'palavra2Ambiguidade.txt'
+wordsFile = sys.argv[1]
+ambiguityFile = sys.argv[2]
 lineBeginning = '<s>'
 
 regexp = re.compile('([a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔ]+)(-[a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔ]+)*/(.+)')
@@ -31,9 +32,8 @@ for line in lines:
     words = line.split(' ')
     lastWord = lineBeginning
     for word in words:
-        word = word.lower()
         match = regexp.match(word)
-        if match and ((match.group(1) in verbalForms) or (match.group(1) == verb)) and (match.group(3) in tags):
+        if match and ((match.group(1).lower() in verbalForms) or (match.group(1).lower() == verb)) and (match.group(3) in tags):
             word = verb + '/' + match.group(3)
             unigrams[word] += 1
         else:

@@ -9,7 +9,7 @@ ambiguityFile = sys.argv[2]
 corpus = sys.argv[3]
 lineBeginning = '<s>'
 
-regexp = re.compile('([a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔ]+)(-[a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔ]+)*')
+regexp = re.compile('([a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔçÇ]+)(-[a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔçÇ]+)*')
 
 bigrams = {}
 ambiguities = [line.strip() for line in open(ambiguityFile)]
@@ -33,11 +33,13 @@ for line in lines:
     print '\n' + line
 
     line = lineBeginning + ' ' + line
-    line = re.sub(r'([\.,?!:;"()])', r' \1 ', line)
-    line = re.sub(r'([^a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔ])-([^a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔ])', r'\1 - \2', line)
-    line = re.sub(r' +', r' ', line)
-    line = re.sub(r'\. \. \.', r'\.\.\.', line)
+    #line = re.sub(r'[«»“”]', '"', line)
+    #line = re.sub(r'([\.,?!:;"()])', r' \1 ', line)
+    #line = re.sub(r'([^a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔ])-([^a-zA-ZáàãéóíõâôêÁÀÃÉÓÍÕÂÊÔ])', r'\1 - \2', line)
+    #line = re.sub(r' +', r' ', line)
+    #line = re.sub(r'\. \. \.', r'\.\.\.', line)
     
+
     words = line.strip().split(' ')
     lastWord = lineBeginning
     findings = []
@@ -82,9 +84,10 @@ for line in lines:
 
         
     results = {}
-    rec(probs, [], results)
-    e = sorted(results.items(), key=lambda x: x[1])
-    e.reverse()
-    for v in e:
-        print v[0], v[1]
+    if len(probs) > 0:
+        rec(probs, [], results)
+        e = sorted(results.items(), key=lambda x: x[1])
+        e.reverse()
+        for v in e:
+            print v[0], v[1]
 
