@@ -220,7 +220,6 @@ timbre comprometer/32C	0.000194704049844
 lançados comprometer/32C	0.000194666147557
 comprometer/32C Clinton	0.000185185185185
 terminou comprometer/07	0.000194704049844
-comprometer/07 20º	0.000189358076122
 comprometer/32C Wojtyla	0.000185185185185
 comprometer/07 presidência	0.000189358076122
 intervenção comprometer/07	0.000194628260023
@@ -361,6 +360,7 @@ comprometer/35R particular	0.000191791331032
 comprometer/07 pareceres	0.000189358076122
 Assuntos comprometer/35R	0.000194704049844
 comprometer/35R confere-lhe	0.000191791331032
+albergar comprometer/07	0.000194704049844
 comprometer/35R sinfonias	0.000191791331032
 900 comprometer/35R	0.000194704049844
 comprometer/32C informado	0.000185185185185
@@ -895,7 +895,6 @@ concorrer comprometer/32C	0.000194704049844
 lembra comprometer/35R	0.000194704049844
 unionistas comprometer/35R	0.000194704049844
 comprometer/35R bloco	0.000191791331032
-comprometer/32C desenlace	0.000185185185185
 quanto comprometer/35R	0.000194552529183
 acesso comprometer/35R	0.000194704049844
 comprometer/35R democraticidade	0.000191791331032
@@ -1074,7 +1073,6 @@ comprometer/07 Faria	0.000189358076122
 destinada comprometer/07	0.000194628260023
 comprometer/07 salão	0.000189358076122
 comprometer/07 revelaram	0.000189358076122
-artº comprometer/35R	0.000194666147557
 comprometer/07 pescadores	0.000189358076122
 Opa comprometer/35R	0.000194666147557
 comprometer/35R Ai	0.000191791331032
@@ -1167,7 +1165,6 @@ lançados comprometer/07	0.000194666147557
 informações comprometer/32C	0.000194704049844
 comprometer/07 ponte	0.000189358076122
 trabalhista comprometer/07	0.000194704049844
-comprometer/35R 20º	0.000191791331032
 comprometer/35R referem-no	0.000191791331032
 comprometer/35R polémico	0.000191791331032
 Netanyahu comprometer/32C	0.000194628260023
@@ -1472,7 +1469,6 @@ helicópteros comprometer/35R	0.000194704049844
 quis comprometer/32C	0.00058388478007
 legislador comprometer/32C	0.000194704049844
 comprometer/35R indicador	0.000191791331032
-comprometer/07 artº	0.000189358076122
 comprometer/07 externa	0.000189358076122
 atingir comprometer/35R	0.000194666147557
 competia comprometer/32C	0.000194704049844
@@ -3690,7 +3686,6 @@ comprometer/32C experiência	0.000185185185185
 comprometer/35R informação	0.000191791331032
 capacidade comprometer/32C	0.000194628260023
 comprometer/32C camas	0.000185185185185
-artº comprometer/32C	0.000194666147557
 comprometer/35R Andaluzia	0.000191791331032
 esperança comprometer/07	0.000194704049844
 comprometer/07 pretexto	0.000189358076122
@@ -3976,10 +3971,10 @@ PRD comprometer/35R	0.000194704049844
 muito comprometer/35R	0.000194061711624
 Jacques comprometer/32C	0.000194704049844
 comprometer/32C tempo	0.000185185185185
-comprometer/35R discussão	0.000191791331032
 disse comprometer/07	0.000194024058983
 tripulação comprometer/32C	0.000194704049844
 optimista comprometer/35R	0.000194704049844
+comprometer/32C �	0.000185185185185
 comprometer/32C 1992	0.000185185185185
 comprometer/07 elementos	0.000189358076122
 comprometer/35R visitar	0.000191791331032
@@ -4048,6 +4043,7 @@ Mississippi comprometer/07	0.000194704049844
 comprometer/07 conferiria	0.000189358076122
 comprometer/32C ínvias	0.000185185185185
 comprometer/32C lesões	0.000185185185185
+comprometer/32C fé	0.000185185185185
 comprometer/35R assistência	0.000191791331032
 ritos comprometer/07	0.000194704049844
 sub-director comprometer/32C	0.000194704049844
@@ -4232,6 +4228,7 @@ Rolando comprometer/07	0.000194704049844
 desvio comprometer/32C	0.000194628260023
 abrir comprometer/35R	0.000194628260023
 dificuldade comprometer/32C	0.000194704049844
+comprometer/35R passou	0.000191791331032
 humilhação comprometer/07	0.000194704049844
 saúde comprometer/35R	0.000194628260023
 comprometer/07 paramilitares	0.000189358076122
@@ -5282,7 +5279,7 @@ comprometer/07 desde	0.000189358076122
 comprometer/07 chegou	0.000189358076122
 comprometer/07 cumpriram	0.000189358076122
 comprometer/35R centro-esquerda	0.000191791331032
-À comprometer/32C	0.000194704049844
+resoluções comprometer/35R	0.000194704049844
 Benfica comprometer/35R	0.000194590387235
 comprometer/35R Curdistão	0.000191791331032
 social-democrata comprometer/32C	0.000194704049844
@@ -5344,7 +5341,7 @@ comprometer/07 saímos	0.000189358076122
 inteligível comprometer/32C	0.000194704049844
 comprometer/35R Nos	0.000191791331032
 comprometer/35R hectares	0.000191791331032
-" comprometer/35R	0.000178699070765
+" comprometer/35R	0.000165125495376
 comprometer/32C israelitas	0.000185185185185
 Aveiro comprometer/07	0.000194704049844
 comprometer/32C nipónicos	0.000185185185185
@@ -6085,6 +6082,7 @@ comprometer/07 testada	0.000189358076122
 comprometer/32C 97	0.000185185185185
 dossiers comprometer/32C	0.000194704049844
 guerra comprometer/35R	0.000194552529183
+albergar comprometer/35R	0.000194704049844
 acumular comprometer/32C	0.000194704049844
 apodava comprometer/35R	0.000194704049844
 comprometer/07 história	0.000189358076122
@@ -6124,7 +6122,6 @@ Ai comprometer/07	0.000194704049844
 manchou comprometer/32C	0.000194704049844
 comprometer/32C laboral	0.000185185185185
 civil comprometer/32C	0.000194666147557
-comprometer/35R À	0.000191791331032
 Rosado comprometer/35R	0.000194704049844
 Passos comprometer/32C	0.000194666147557
 As comprometer/07	0.000194401244168
@@ -6280,7 +6277,7 @@ comprometer/35R assinando	0.000191791331032
 comprometer/32C patriótico	0.000185185185185
 vê comprometer/32C	0.000194666147557
 dizendo comprometer/35R	0.000194628260023
-comprometer/35R nº	0.000191791331032
+comprometer/32C tinha-se	0.000185185185185
 Papa comprometer/32C	0.000194704049844
 comprometer/07 causados	0.000189358076122
 comprometer/07 Pequim	0.000189358076122
@@ -6533,6 +6530,7 @@ comprometer/07 ministra	0.000189358076122
 deputado comprometer/07	0.000194666147557
 falantes comprometer/32C	0.000194704049844
 gases comprometer/32C	0.000194704049844
+� comprometer/32C	0.000194476857254
 reinante comprometer/32C	0.000194704049844
 sobrecarga comprometer/07	0.000194704049844
 Janeiro comprometer/07	0.000194628260023
@@ -7238,6 +7236,7 @@ comprometer/32C Demétrio	0.000185185185185
 atentados comprometer/35R	0.000194666147557
 comprometer/07 ordenação	0.000189358076122
 comprometer/32C sobre	0.000185185185185
+comprometer/32C albergar	0.000185185185185
 adjacentes comprometer/35R	0.000194704049844
 governos comprometer/32C	0.000194704049844
 alguns comprometer/07	0.000194514685859
@@ -7281,7 +7280,7 @@ comprometer/35R europeu	0.000191791331032
 comprometer/32C antigo	0.000185185185185
 comprometer/32C palpáveis	0.000185185185185
 manipulam comprometer/07	0.000194704049844
-albergar comprometer/07	0.000194704049844
+art comprometer/07	0.000194666147557
 implique comprometer/07	0.000194704049844
 comprometer/32C olhar	0.000185185185185
 comprometer/32C impôs	0.000185185185185
@@ -7376,7 +7375,6 @@ comprometer/35R zona	0.000191791331032
 comprometer/35R encontrem	0.000191791331032
 comprometer/35R percorre	0.000191791331032
 comprometer/32C Oficial	0.000185185185185
-comprometer/32C tinha-se	0.000185185185185
 comprometer/35R 1977	0.000191791331032
 comprometer/07 Artesanalpesca	0.000189358076122
 comprometer/07 resistem	0.000189358076122
@@ -8188,7 +8186,6 @@ define comprometer/32C	0.000194704049844
 comprometer/32C semelhança	0.000185185185185
 abandono comprometer/07	0.000194704049844
 dívida comprometer/07	0.000194666147557
-20º comprometer/07	0.000194666147557
 comprometer/35R olear	0.000191791331032
 comprometer/32C interna	0.000185185185185
 comprometer/35R estamos	0.000191791331032
@@ -8617,6 +8614,7 @@ comprometer/35R triângulo	0.000191791331032
 gratuito comprometer/35R	0.000194704049844
 comprometer/32C UEM	0.000185185185185
 retratassem comprometer/35R	0.000194704049844
+comprometer/32C �	0.000185185185185
 comprometer/07 compras	0.000189358076122
 comprometer/07 financiar	0.000189358076122
 elevado comprometer/32C	0.000194704049844
@@ -9347,7 +9345,6 @@ comprometer/32C deram	0.000185185185185
 comprometer/35R Tony	0.000191791331032
 circunstâncias comprometer/07	0.000194666147557
 criado comprometer/32C	0.000194704049844
-nº comprometer/32C	0.000194628260023
 geleia comprometer/32C	0.000194704049844
 Setembro comprometer/35R	0.000194704049844
 progressistas comprometer/32C	0.000194704049844
@@ -9463,6 +9460,7 @@ comprometer/07 relativa	0.000189358076122
 comprometer/35R Pavel	0.000191791331032
 tornava comprometer/35R	0.000194704049844
 selecção comprometer/07	0.000194704049844
+� comprometer/07	0.000194476857254
 Atal comprometer/32C	0.000194704049844
 Gondomar comprometer/32C	0.000194704049844
 comprometer/32C prepotente	0.000185185185185
@@ -9994,6 +9992,7 @@ comprometer/07 Harvey	0.000189358076122
 acontece comprometer/35R	0.000194704049844
 Câmara comprometer/32C	0.00019425019425
 ramificações comprometer/32C	0.000194704049844
+comprometer/35R �	0.000191791331032
 comprometer/35R Direcção-Geral	0.000191791331032
 comprometer/32C estômago	0.000185185185185
 comprometer/35R satisfação	0.000191791331032
@@ -10103,7 +10102,7 @@ convencer comprometer/35R	0.000194704049844
 comprometer/35R Orçamento	0.000191791331032
 governamentais comprometer/07	0.000194628260023
 brutalidade comprometer/35R	0.000194704049844
-comprometer/35R ciganos	0.000191791331032
+n comprometer/32C	0.000194628260023
 destas comprometer/35R	0.000194704049844
 comprometer/35R Posição	0.000191791331032
 comprometer/35R short	0.000191791331032
@@ -11171,7 +11170,7 @@ Moscovo comprometer/32C	0.000194666147557
 libertar-se comprometer/07	0.000194704049844
 perdoada comprometer/35R	0.000194704049844
 podem comprometer/32C	0.00116663426016
-albergar comprometer/35R	0.000194704049844
+art comprometer/35R	0.000194666147557
 Parlamento comprometer/32C	0.000194704049844
 homem comprometer/35R	0.000194628260023
 Realizada comprometer/35R	0.000194704049844
@@ -11281,7 +11280,6 @@ forem comprometer/07	0.000194666147557
 comprometer/35R ruído	0.000191791331032
 comprometer/07 Iva	0.000189358076122
 género comprometer/07	0.000194666147557
-20º comprometer/35R	0.000194666147557
 comprometer/07 O	0.000189358076122
 Sprint comprometer/35R	0.000194704049844
 comprometer/07 próprias	0.000189358076122
@@ -11336,6 +11334,7 @@ comprometer/35R ambas	0.000191791331032
 Jason comprometer/35R	0.000194704049844
 comprometer/32C amanhã	0.000185185185185
 distribuição comprometer/35R	0.000194628260023
+� comprometer/35R	0.000194476857254
 visão comprometer/07	0.000194666147557
 comprometer/07 horas	0.000189358076122
 populismo comprometer/35R	0.000194704049844
@@ -11352,7 +11351,7 @@ comprometer/07 câmara	0.000189358076122
 pagas comprometer/07	0.000194704049844
 aceitando comprometer/35R	0.000194704049844
 tínhamos comprometer/35R	0.000194704049844
-comprometer/32C albergar	0.000185185185185
+comprometer/32C art	0.000185185185185
 comprometer/07 desarticulação	0.000189358076122
 comprometer/32C bandeja	0.000185185185185
 Colômbia comprometer/35R	0.000194704049844
@@ -11848,7 +11847,6 @@ comprometer/32C seus	0.000185185185185
 Apesar comprometer/07	0.000194704049844
 comprometer/32C Johnson	0.000185185185185
 comprometer/07 Filipe	0.000189358076122
-comprometer/32C significaria	0.000185185185185
 comprometer/07 total	0.000189358076122
 comprometer/07 contos	0.000189358076122
 condigna comprometer/35R	0.000194704049844
@@ -12075,6 +12073,7 @@ Jardim comprometer/35R	0.000194666147557
 comprometer/07 dirigido	0.000189358076122
 comprometer/35R residem	0.000191791331032
 gasoduto comprometer/32C	0.000389408099688
+� comprometer/07	0.000194704049844
 comprometer/32C fundos	0.000185185185185
 comprometer/07 bois	0.000189358076122
 comprometer/35R demorado	0.000191791331032
@@ -12227,7 +12226,7 @@ garagem comprometer/07	0.000194704049844
 passo comprometer/35R	0.000194666147557
 Instituto comprometer/07	0.000194666147557
 considerado comprometer/07	0.000194704049844
-comprometer/35R passou	0.000191791331032
+comprometer/32C significaria	0.000185185185185
 verificou comprometer/32C	0.000194704049844
 aspirações comprometer/07	0.000194552529183
 comprometer/07 objectivo	0.000189358076122
@@ -12455,7 +12454,7 @@ residem comprometer/35R	0.000194704049844
 livros comprometer/07	0.000194666147557
 Pires comprometer/35R	0.000194704049844
 sketch comprometer/35R	0.000194704049844
-20 comprometer/32C	0.000194704049844
+20 comprometer/32C	0.000194628260023
 comprometer/35R Penedo	0.000191791331032
 comprometer/07 dominavam	0.000189358076122
 votado comprometer/35R	0.000194704049844
@@ -12735,7 +12734,7 @@ pluralismo comprometer/07	0.000194704049844
 reintegração comprometer/07	0.000194704049844
 comprometer/07 institucionais	0.000189358076122
 comprometer/32C 8	0.000185185185185
-20 comprometer/07	0.000194704049844
+20 comprometer/07	0.000194628260023
 comprometer/32C dissociado	0.000185185185185
 completando comprometer/35R	0.000194704049844
 comprometer/35R aí	0.000191791331032
@@ -12803,6 +12802,7 @@ falou comprometer/35R	0.000194704049844
 mercados comprometer/07	0.000194704049844
 Liga comprometer/07	0.000194628260023
 comprometer/07 fixados	0.000189358076122
+comprometer/32C n	0.000185185185185
 comprometer/07 acompanhamento	0.000189358076122
 comprometer/07 bispo	0.000189358076122
 comprometer/07 dispor	0.000189358076122
@@ -12885,6 +12885,7 @@ dever-se-á comprometer/32C	0.000194704049844
 nação comprometer/32C	0.000194704049844
 constantes comprometer/32C	0.000194666147557
 comprometer/07 dizia	0.000189358076122
+comprometer/07 �	0.000189358076122
 comprometer/35R disse	0.000191791331032
 credibilidade comprometer/35R	0.000194628260023
 comprometer/07 aleatória	0.000189358076122
@@ -13442,7 +13443,7 @@ anterior comprometer/35R	0.000194590387235
 maior comprometer/35R	0.000194476857254
 comprometer/07 lançado	0.000189358076122
 comprometer/07 figuras	0.000189358076122
-Antero comprometer/07	0.000194704049844
+comprometer/35R Penedos	0.000191791331032
 Japão comprometer/35R	0.000194590387235
 garante comprometer/35R	0.000194704049844
 capazes comprometer/35R	0.000194666147557
@@ -13880,7 +13881,7 @@ comprometer/07 policiais	0.000189358076122
 Lemos comprometer/32C	0.000194666147557
 comprometer/32C república	0.000185185185185
 comprometer/07 ganhos	0.000189358076122
-comprometer/32C contrastou	0.000185185185185
+comprometer/32C lotes	0.000185185185185
 comprometer/07 extremistas	0.000189358076122
 comprometer/32C materiais	0.000185185185185
 comprometer/07 anulação	0.000189358076122
@@ -13976,7 +13977,6 @@ comprometer/32C Viseu	0.000185185185185
 comprometer/35R laboratório	0.000191791331032
 comprometer/32C bom	0.000185185185185
 Salcedo comprometer/07	0.000194666147557
-resoluções comprometer/35R	0.000194704049844
 programa comprometer/07	0.000194552529183
 comprometer/35R urnas	0.000191791331032
 comprometer/32C toque	0.000185185185185
@@ -14520,7 +14520,7 @@ compadece comprometer/32C	0.000194704049844
 Água comprometer/32C	0.000194704049844
 comprometer/35R terminou	0.000191791331032
 existente comprometer/32C	0.000194704049844
-comprometer/35R tinha-se	0.000191791331032
+comprometer/07 desenlace	0.000189358076122
 comprometer/07 Inkatha	0.000189358076122
 comprometer/35R sete	0.000191791331032
 comprometer/32C rinque	0.000185185185185
@@ -14743,6 +14743,7 @@ comprometer/32C mostrou-se	0.000185185185185
 desejavelmente comprometer/35R	0.000194704049844
 desarticulação comprometer/35R	0.000194704049844
 Hemisfério comprometer/32C	0.000194704049844
+comprometer/07 �	0.000189358076122
 penalizado comprometer/07	0.000194628260023
 chegado comprometer/07	0.000194590387235
 comprometer/32C sindicatos	0.000185185185185
@@ -15042,6 +15043,7 @@ comprometer/35R afectar	0.000191791331032
 comprometer/07 reunindo	0.000189358076122
 comprometer/35R cada	0.000191791331032
 comprometer/07 talvez	0.000189358076122
+� comprometer/35R	0.000194704049844
 comprometer/07 Víctor	0.000189358076122
 rigor comprometer/07	0.000194666147557
 irlandesa comprometer/35R	0.000194704049844
@@ -15064,7 +15066,6 @@ comprometer/07 Nações	0.000189358076122
 comprometer/32C muitos	0.000185185185185
 comprometer/07 conselho	0.000189358076122
 juvenis comprometer/35R	0.000194704049844
-comprometer/35R artº	0.000191791331032
 UEM comprometer/35R	0.000194704049844
 comprometer/35R seguros	0.000191791331032
 comprometer/07 Seca	0.000189358076122
@@ -15338,6 +15339,7 @@ Figueiró comprometer/35R	0.000194704049844
 comprometer/32C existência	0.000185185185185
 alguma comprometer/32C	0.000194666147557
 entender comprometer/35R	0.000194666147557
+� comprometer/32C	0.000194704049844
 ficará comprometer/07	0.000194590387235
 atingidos comprometer/07	0.000194704049844
 Godinho comprometer/35R	0.000194704049844
@@ -15866,7 +15868,6 @@ razões comprometer/07	0.000194590387235
 publicitários comprometer/32C	0.000194704049844
 comprometer/07 salarial	0.000189358076122
 comprometer/35R apresentação	0.000191791331032
-comprometer/07 À	0.000189358076122
 piscícola comprometer/35R	0.000194704049844
 falantes comprometer/07	0.000194704049844
 comprometer/32C procurou	0.000185185185185
@@ -16135,6 +16136,7 @@ televisão comprometer/07	0.000194666147557
 eleitoralistas comprometer/07	0.000194704049844
 comprometer/35R finanças	0.000191791331032
 Chuayffet comprometer/07	0.000194704049844
+comprometer/07 n	0.000189358076122
 comprometer/32C publicar	0.000185185185185
 fraco comprometer/35R	0.000194704049844
 comprometer/32C Copenhaga	0.000185185185185
@@ -16413,7 +16415,7 @@ vésperas comprometer/35R	0.000194666147557
 Noga comprometer/07	0.000194704049844
 definitivamente comprometer/07	0.000194514685859
 rinque comprometer/32C	0.000194704049844
-comprometer/32C etária	0.000185185185185
+cidades comprometer/32C	0.000194704049844
 Unido comprometer/32C	0.000194704049844
 comprometer/07 igualmente	0.000189358076122
 superiores comprometer/32C	0.000194704049844
@@ -16824,6 +16826,7 @@ comprometer/35R em	0.000383582662064
 chaga comprometer/32C	0.000194704049844
 comprometer/07 leva	0.000189358076122
 totalmente comprometer/35R	0.00038887808672
+n comprometer/07	0.000194628260023
 problemas comprometer/35R	0.000194552529183
 Embora comprometer/07	0.000194628260023
 Justiça comprometer/07	0.000194704049844
@@ -16985,7 +16988,6 @@ Iraque comprometer/07	0.000194704049844
 comprometer/32C esforço	0.000185185185185
 Amorim comprometer/35R	0.000194666147557
 comprometer/32C irlandesa	0.000185185185185
-PDC comprometer/07	0.000194704049844
 colegas comprometer/32C	0.000194704049844
 olivais comprometer/32C	0.000194704049844
 ir comprometer/07	0.000194704049844
@@ -17783,7 +17785,7 @@ comprometer/35R 900	0.000191791331032
 comprometer/35R Académico	0.000191791331032
 comprometer/07 negociar	0.000189358076122
 contra-ataque comprometer/35R	0.000194590387235
-comprometer/35R cultural	0.000191791331032
+cães comprometer/35R	0.000194704049844
 rituais comprometer/32C	0.000194704049844
 teoria comprometer/35R	0.000194704049844
 comprometer/35R Starr	0.000191791331032
@@ -18510,7 +18512,7 @@ divergem comprometer/32C	0.000194704049844
 comprometer/32C disputa	0.000185185185185
 comprometer/35R Likud	0.000191791331032
 jurados comprometer/07	0.000194704049844
-possa comprometer/35R	0.000194628260023
+funcionários comprometer/35R	0.000194666147557
 comprometer/07 esforço	0.000189358076122
 comprometer/35R encontrar	0.000191791331032
 ( comprometer/35R	0.000192012288786
@@ -19041,6 +19043,7 @@ alerta comprometer/07	0.000194666147557
 consequência comprometer/07	0.000194704049844
 comunitárias comprometer/35R	0.000194704049844
 esclarecer comprometer/35R	0.000194666147557
+comprometer/35R n	0.000191791331032
 Tratado comprometer/35R	0.000194666147557
 comprometer/32C reuniões	0.000185185185185
 Friedrich comprometer/32C	0.000194704049844
@@ -19435,7 +19438,6 @@ comprometer/32C combinados	0.000185185185185
 comprometer/07 dando	0.000189358076122
 comprometer/35R propícia	0.000191791331032
 comprometer/07 acontecimento	0.000189358076122
-À comprometer/07	0.000194704049844
 vedetismo comprometer/35R	0.000194704049844
 vias comprometer/32C	0.000194666147557
 Ceder comprometer/32C	0.000194704049844
@@ -19901,7 +19903,7 @@ Machado comprometer/32C	0.000194666147557
 comprometer/35R Álvaro	0.000191791331032
 comprometer/32C véspera	0.000185185185185
 contrastou comprometer/07	0.000194704049844
-comprometer/35R Penedos	0.000191791331032
+Antero comprometer/07	0.000194704049844
 comprometer/07 legislativas	0.000189358076122
 entender comprometer/07	0.000194666147557
 CP comprometer/07	0.000194666147557
@@ -19984,7 +19986,7 @@ planeta comprometer/35R	0.000194704049844
 comprometer/35R belicistas	0.000191791331032
 referia comprometer/32C	0.000194704049844
 comprometer/35R Tal	0.000191791331032
-reduz comprometer/35R	0.000194704049844
+possa comprometer/35R	0.000194628260023
 comprometer/07 equivalente	0.000189358076122
 comemorações comprometer/32C	0.000194704049844
 comprometer/35R com	0.00997314921366
@@ -20195,6 +20197,7 @@ nossa comprometer/35R	0.000194628260023
 Lewis comprometer/07	0.000194704049844
 comprometer/32C centra-se	0.000185185185185
 comprometer/35R jipe	0.000191791331032
+n comprometer/35R	0.000194628260023
 apenas comprometer/07	0.000194401244168
 comprometer/32C Local	0.000185185185185
 comprometer/35R Mirror	0.000191791331032
@@ -21637,7 +21640,7 @@ liberais comprometer/35R	0.000194704049844
 sérvio comprometer/07	0.000194704049844
 comprometer/07 ministros	0.000189358076122
 comprometer/35R diferenças	0.000191791331032
-" comprometer/07	0.000178699070765
+" comprometer/07	0.000165125495376
 comprometer/32C deste	0.000185185185185
 Administração comprometer/35R	0.000194514685859
 até comprometer/07	0.000194137060765
@@ -22464,7 +22467,6 @@ Figueiró comprometer/32C	0.000194704049844
 fileiras comprometer/07	0.000194704049844
 comprometer/32C judiciária	0.000185185185185
 comprometer/32C canal	0.000185185185185
-artº comprometer/07	0.000194666147557
 comprometer/07 Setembro	0.000189358076122
 comprometer/35R dizia	0.000191791331032
 Voltz comprometer/35R	0.000194704049844
@@ -22704,7 +22706,6 @@ comprometer/35R Maré-Nome	0.000191791331032
 comprometer/35R objectivos	0.000191791331032
 comprometer/32C industrializados	0.000185185185185
 comprometer/35R interno	0.000191791331032
-comprometer/32C 20º	0.000185185185185
 comprometer/32C reúne	0.000185185185185
 comprometer/35R pagas	0.000191791331032
 Justiça comprometer/35R	0.000194704049844
@@ -23076,7 +23077,7 @@ tantos comprometer/07	0.000194628260023
 sequer comprometer/35R	0.000194590387235
 comprometer/32C escondia	0.000185185185185
 posição comprometer/35R	0.00019443904336
-cidades comprometer/32C	0.000194704049844
+comprometer/32C etária	0.000185185185185
 aumentar comprometer/35R	0.000194666147557
 membros comprometer/35R	0.000194514685859
 comprometer/32C marcam	0.000185185185185
@@ -23282,7 +23283,6 @@ comprometer/35R contracção	0.000191791331032
 empreiteiros comprometer/32C	0.000194704049844
 comprometer/35R minha	0.000191791331032
 mas comprometer/35R	0.000192975685064
-comprometer/32C nº	0.000185185185185
 comprometer/07 artigo	0.000189358076122
 comprometer/35R reduzindo-as	0.000191791331032
 comprometer/07 exemplo	0.000189358076122
@@ -23672,6 +23672,7 @@ lançadas comprometer/32C	0.000194704049844
 comprometer/07 causa	0.000189358076122
 rádio comprometer/32C	0.000194666147557
 comprometer/35R mina	0.000191791331032
+comprometer/35R �	0.000191791331032
 comprometer/35R toneladas	0.000191791331032
 comprometer/32C Michael	0.000185185185185
 concluída comprometer/07	0.000194704049844
@@ -23883,6 +23884,7 @@ comprometer/32C Estado	0.000185185185185
 comprometer/35R operadores	0.000191791331032
 comprometer/07 Advani	0.000189358076122
 comprometer/07 problemas	0.000189358076122
+comprometer/35R art	0.000191791331032
 municipais comprometer/32C	0.000194666147557
 Queen comprometer/35R	0.000194704049844
 preparatória comprometer/07	0.000194704049844
@@ -24452,6 +24454,7 @@ decorrente comprometer/32C	0.000194704049844
 director comprometer/07	0.000194590387235
 procurou comprometer/07	0.000194666147557
 comprometer/35R ex-deputado	0.000191791331032
+art comprometer/32C	0.000194666147557
 somos comprometer/32C	0.000194704049844
 Iosseliani comprometer/32C	0.000194704049844
 bósnios comprometer/35R	0.000194666147557
@@ -24641,7 +24644,6 @@ desafectado comprometer/07	0.000194704049844
 comprometer/07 brasileiro	0.000189358076122
 compromissos comprometer/32C	0.000194628260023
 comprometer/35R Agência	0.000191791331032
-À comprometer/35R	0.000194704049844
 comprometer/32C ajudar	0.000185185185185
 lixo comprometer/07	0.000194666147557
 acrescenta comprometer/32C	0.000194666147557
@@ -25020,7 +25022,7 @@ comprometer/35R Água	0.000191791331032
 visto comprometer/07	0.000194590387235
 comprometer/07 guia	0.000189358076122
 comprometer/07 traria	0.000189358076122
-20 comprometer/35R	0.000194704049844
+20 comprometer/35R	0.000194628260023
 fios comprometer/07	0.000194704049844
 absoluto comprometer/07	0.000194704049844
 Anna comprometer/07	0.000194704049844
@@ -25217,7 +25219,7 @@ comprometer/07 aceitando	0.000189358076122
 dobro comprometer/32C	0.000194666147557
 comprometer/07 Estado-adjunto	0.000189358076122
 Álvaro comprometer/35R	0.000194704049844
-crescido comprometer/32C	0.000194704049844
+canal comprometer/35R	0.000194704049844
 larga comprometer/35R	0.000194704049844
 comprometer/35R Saúde	0.000191791331032
 prefere comprometer/35R	0.000194704049844
@@ -25308,7 +25310,7 @@ comprometer/07 Wei	0.000189358076122
 comprometer/32C 9	0.000185185185185
 comprometer/35R R	0.000191791331032
 comprometer/07 estamos	0.000189358076122
-comprometer/32C residentes	0.000185185185185
+Os comprometer/35R	0.000194024058983
 comprometer/07 beira	0.000189358076122
 15 comprometer/32C	0.000194514685859
 comprometer/07 regional	0.000189358076122
@@ -26355,7 +26357,6 @@ Braga comprometer/07	0.000194666147557
 comprometer/32C alto	0.000185185185185
 Sampaio comprometer/35R	0.000194704049844
 comprometer/07 manipulam	0.000189358076122
-20º comprometer/32C	0.000194666147557
 hostilidade comprometer/35R	0.000194704049844
 comprometer/35R curiosamente	0.000191791331032
 comprometer/32C trabalhos	0.000185185185185
@@ -26636,7 +26637,7 @@ neutros comprometer/35R	0.000194704049844
 Douglas comprometer/32C	0.000194704049844
 compromissos comprometer/07	0.000194628260023
 Santa comprometer/35R	0.000194666147557
-nº comprometer/35R	0.000194628260023
+comprometer/35R discussão	0.000191791331032
 deliberadamente comprometer/32C	0.000194704049844
 comprometer/32C Ruiz	0.000185185185185
 comprometer/07 equipa	0.000189358076122
@@ -26875,7 +26876,6 @@ parceiros comprometer/35R	0.000194704049844
 Carrington comprometer/35R	0.000194704049844
 comprometer/35R analfabeto	0.000191791331032
 instigadores comprometer/32C	0.000194704049844
-nº comprometer/07	0.000194628260023
 trabalhistas comprometer/32C	0.000194666147557
 comprometer/35R no	0.000383582662064
 comprometer/32C Olivais	0.000185185185185
@@ -27663,7 +27663,7 @@ decerto comprometer/35R	0.000194704049844
 comprometer/35R Craxi	0.000191791331032
 comprometer/07 significado	0.000189358076122
 comprometer/35R Entendamo-nos	0.000191791331032
-comprometer/07 nº	0.000189358076122
+comprometer/32C desenlace	0.000185185185185
 comprometer/07 dados	0.000189358076122
 comprometer/07 partir	0.000189358076122
 Costa comprometer/07	0.000194628260023
@@ -27885,7 +27885,7 @@ comprometer/07 pavilhão	0.000189358076122
 comprometer/32C recusou	0.000185185185185
 comprometer/35R bósnios	0.000191791331032
 claros comprometer/07	0.000194704049844
-comprometer/32C lotes	0.000185185185185
+comprometer/32C contrastou	0.000185185185185
 comprometer/35R Gaudenzi	0.000191791331032
 rateio comprometer/32C	0.000194704049844
 1992 comprometer/32C	0.000194666147557
@@ -27993,7 +27993,7 @@ preciso comprometer/07	0.000194666147557
 e comprometer/35R	0.000366099212887
 comprometer/07 aceitação	0.000189358076122
 comprometer/32C competitividade	0.000185185185185
-comprometer/07 desenlace	0.000189358076122
+comprometer/35R tinha-se	0.000191791331032
 comprometer/32C topografia	0.000185185185185
 Neves comprometer/07	0.000194704049844
 comprometer/07 lamenta	0.000189358076122
@@ -28471,7 +28471,7 @@ comprometer/32C prevista	0.000185185185185
 comprometer/07 Madeirense	0.000189358076122
 participaram comprometer/07	0.000194704049844
 apresentei comprometer/32C	0.000194704049844
-funcionários comprometer/35R	0.000194666147557
+PDC comprometer/07	0.000194704049844
 Lusa comprometer/35R	0.000194628260023
 comprometer/35R 75000	0.000191791331032
 comprometer/07 futebolística	0.000189358076122
@@ -28602,7 +28602,7 @@ cheio comprometer/07	0.000194704049844
 unilaterais comprometer/35R	0.000194704049844
 ABB comprometer/35R	0.000194704049844
 representado comprometer/35R	0.000194704049844
-cães comprometer/35R	0.000194704049844
+comprometer/35R cultural	0.000191791331032
 comprometer/07 serviço	0.000189358076122
 antecessores comprometer/32C	0.000194704049844
 comprometer/32C elementos	0.000185185185185
@@ -28817,7 +28817,7 @@ liderada comprometer/35R	0.000194704049844
 comprometer/32C Sim	0.000185185185185
 sentar-se comprometer/32C	0.000194704049844
 comprometer/35R incluindo	0.000191791331032
-canal comprometer/35R	0.000194704049844
+crescido comprometer/32C	0.000194704049844
 Troiainveste comprometer/32C	0.000194704049844
 comprometer/32C alguns	0.000185185185185
 servem comprometer/07	0.000194704049844
@@ -29141,7 +29141,7 @@ encerrar comprometer/32C	0.000194704049844
 comprometer/35R estruturante	0.000191791331032
 comprometer/07 cabeça	0.000189358076122
 decisivamente comprometer/32C	0.000194704049844
-comprometer/32C fé	0.000185185185185
+reduz comprometer/35R	0.000194704049844
 comprometer/32C Liga	0.000185185185185
 comprometer/35R terça	0.000191791331032
 comprometer/07 alvo	0.000189358076122
@@ -29314,6 +29314,7 @@ comprometer/07 contestaram	0.000189358076122
 comprometer/35R Fazem	0.000191791331032
 recomendar comprometer/35R	0.000194704049844
 comprometer/35R continuar	0.000191791331032
+comprometer/07 art	0.000189358076122
 Fernando comprometer/32C	0.000194590387235
 ocasionalmente comprometer/32C	0.000194704049844
 frágeis comprometer/07	0.000194704049844
@@ -29412,7 +29413,6 @@ esquadras comprometer/32C	0.000194704049844
 Como comprometer/32C	0.000194590387235
 treino comprometer/35R	0.000194704049844
 comprometer/07 manuscrito	0.000189358076122
-comprometer/32C À	0.000185185185185
 últimas comprometer/35R	0.000194590387235
 comprometer/07 clones	0.000189358076122
 arrastamento comprometer/07	0.000194704049844
@@ -29449,7 +29449,7 @@ comprometer/32C disciplina	0.000185185185185
 comprometer/07 embriões	0.000189358076122
 comprometer/07 suspenso	0.000189358076122
 comprometer/07 espelhou	0.000189358076122
-Os comprometer/35R	0.000194024058983
+comprometer/32C residentes	0.000185185185185
 excepção comprometer/07	0.000194704049844
 Blair comprometer/07	0.000194666147557
 carga comprometer/32C	0.000194628260023
@@ -29625,7 +29625,6 @@ tarde comprometer/35R	0.000194666147557
 comprometer/35R floresta	0.000191791331032
 Projecto comprometer/35R	0.000194704049844
 comprometer/07 mil	0.000189358076122
-comprometer/32C artº	0.000185185185185
 dirigiram-se comprometer/07	0.000194704049844
 comprometer/07 depor	0.000189358076122
 comprometer/35R .	0.00172612197929
@@ -30178,7 +30177,7 @@ comprometer/35R agrada	0.000191791331032
 comprometer/07 consciência	0.000189358076122
 Freitas comprometer/35R	0.000194666147557
 comprometer/32C princípio	0.000185185185185
-" comprometer/32C	0.00125089349535
+" comprometer/32C	0.00115587846764
 criadas comprometer/07	0.000194704049844
 Casa comprometer/32C	0.000194704049844
 disponibilizar comprometer/07	0.000194666147557
@@ -30564,6 +30563,7 @@ pouco comprometer/32C	0.000389105058366
 comprometer/35R perde	0.000191791331032
 comprometer/35R significativas	0.000191791331032
 comprometer/32C autorizar	0.000185185185185
+comprometer/35R ciganos	0.000191791331032
 comprometer/07 soluções	0.000189358076122
 comprometer/35R social-democratas	0.000191791331032
 comprometer/32C firma	0.000185185185185

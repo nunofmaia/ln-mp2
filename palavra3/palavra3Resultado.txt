@@ -4,12 +4,12 @@ Destruir a floresta amazónica pode comprometer o sucesso de barragens para a pr
  comprometer/35R 3.71904849782e-08
  comprometer/07 3.67186496262e-08
 
-" Concordei em assumir o papel de líder desta coligação e comprometo-me com o sucesso desta operação " , acrescentou .
+" " " Concordei em assumir o papel de líder desta coligação e comprometo-me com o sucesso desta operação " " " , acrescentou .
  comprometo-me/35R 3.65116207713e-06
  comprometo-me/32C 7.45757655881e-07
  comprometo-me/07 3.46619213109e-08
 
-Questionado sobre as informações prestadas por Paulo Portas , Passos Coelho não se quis comprometer com valores e afirmou que " nenhuma decisão foi tomada sobre esta matéria " .
+Questionado sobre as informações prestadas por Paulo Portas , Passos Coelho não se quis comprometer com valores e afirmou que " " " nenhuma decisão foi tomada sobre esta matéria " " " .
  comprometer/35R 3.88211335682e-06
  comprometer/32C 2.16253622248e-07
  comprometer/07 3.68544328769e-08
@@ -19,7 +19,7 @@ O BCE e o FMI exigirem que Atenas se comprometa com novas medidas no quadro de u
  comprometa/07 4.0944178352e-06
  comprometa/32C 2.05343025524e-07
 
-Os dois candidatos socialistas também " reafirmam da importância da assembleia municipal " aprovar os documentos propostos pela Câmara e reconhecem a sua legitimidade para sobre eles exercer uma visão crítica , comprometendo-se a aproximar aquele órgão autárquico dos cidadãos .
+Os dois candidatos socialistas também " " " reafirmam da importância da assembleia municipal " " " aprovar os documentos propostos pela Câmara e reconhecem a sua legitimidade para sobre eles exercer uma visão crítica , comprometendo-se a aproximar aquele órgão autárquico dos cidadãos .
  comprometendo-se/32C 2.94586539127e-05
  comprometendo-se/07 3.33709647563e-06
  comprometendo-se/35R 2.99113117642e-07

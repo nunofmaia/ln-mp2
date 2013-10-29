@@ -1,8 +1,8 @@
-Para o verbo aprender, uma vez que este só apresenta duas anotações possíveis, os resultados foram razoáveis. Julgamos que a ambiguidade deste verbo, pode ser detectada grande parte das vezes utilizando apenas bigramas. Por exemplo, a anotação 07 é quase sempre precedida por "a".
+Para o verbo 'aprender', uma vez que este só apresenta duas anotações possíveis, os resultados foram razoáveis. Julgamos que a ambiguidade deste verbo, pode ser detectada grande parte das vezes utilizando apenas bigramas. Por exemplo, a anotação 07 é quase sempre precedida por "a".
 
-Porém, tal não acontece para o verbo correr. Este verbo é bastante ambíguo uma vez que tem cinco anotações possíveis. Há também que ter em conta que o corpus de aprendizagem foi afectado pela expressão "correr o risco" que ocorreu bastantes vezes e à qual foi acordado atribuir a anotação /?. No entanto, dado às ambiguidades do verbo seria preferível um corpus muito maior e estaria fora de questão a utilização de apenas bigramas.
+Porém, tal não acontece para o verbo 'correr'. Este verbo é bastante ambíguo uma vez que tem cinco anotações possíveis. Há também que ter em conta que o corpus de aprendizagem foi afectado pela expressão "correr o risco" que ocorreu bastantes vezes e à qual foi acordado atribuir a anotação /?. No entanto, dado às ambiguidades do verbo seria preferível um corpus muito maior e estaria fora de questão a utilização de apenas bigramas.
 
-verbo comprometer
+COMPROMETER
 
 Para o desenvolvimento de sistemas que seleccionam a construção correta, começamos por salientar a necessidade de a anotação do corpus de aprendizagem ser feita por um linguista. Sentimos sérias dificuldades na anotação dos corpus devido às várias ambinguidades e, caso nos enganemos, comprometemos automaticamente os resultados do programa.
 Outro problema detectado, foi sem dúvidas o tamanho do corpus. Seria muito mais viável a utilizações de corpus muito maiores que os utilizados neste projecto.
